@@ -3,8 +3,8 @@
 <h1>
   <sub>
     <a href="https://github.com/Komonodrg-portfolio">🏠️ Home</a> | 
-    <a href="https://github.com/joshmadakor1">Cybersecurity</a> | 
-    <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a> | 
+    <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> | 
+    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> | 
     <a href="https://www.youtube.com/c/joshmadakor">Data Science (AI)</a> | 
     <a href="https://www.twitter.com/c/joshmadakor">Project Management</a>
   </sub>
