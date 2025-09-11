@@ -36,10 +36,10 @@ Every modern innovation—from AI and blockchain to healthcare systems and defen
 - <b>Building Robust Networking Home Lab</b>
   - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>🪂 <em>One Man's Thoughts...</em></h2>
+<h2>🪂 <em>"One Man's Thoughts..."</h2>
 Here to document the journey.  Excited to share and hope this info will prove beneficial.  
 
-<br>Colleagues, Onward.<br> 
+<br>Colleagues, Onward.</em><br> 
 
 
 
