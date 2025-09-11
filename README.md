@@ -1,13 +1,6 @@
-### [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation)
+### [Home](https://github.com/Komonodrg-portfolio) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation)
 
-<h1>
-  <sub>
-    <a href="https://github.com/Komonodrg-portfolio">🏠️ Home</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/MediaCreation">Media Creation</a>
-  </sub>
-</h1>
+
 
 # 👨‍💻 Cybersecurity
 
