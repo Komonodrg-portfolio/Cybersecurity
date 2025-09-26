@@ -34,7 +34,9 @@ Every modern innovation—from AI and blockchain to healthcare systems and defen
 <h2>📂 Projects</h2>
 
 - <b>Building Cyber Security Home Lab</b>
-  - [Cybersecurity Home Lab](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)
+  - <b>[Cybersecurity Home Lab](https://github.com/Komonodrg-portfolio/---CS---Home_Lab_Cyber)<b>
+- <b>Implementing NIST and CIS Fundamentals within Home Lab (Ongoing)</b>
+  - [NIST & CIS Home Lab Implementation](https://github.com/Komonodrg-portfolio/---CS---NIST_CIS_Home_Lab)
   
 <h2>🪂 <em>"One Man's Thoughts..."</h2>
 Here to document the journey.  Excited to share and hope this info will prove beneficial.  
